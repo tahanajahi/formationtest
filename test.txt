@@ -1,0 +1,15 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 6871-486A
+
+ R‚pertoire de C:\Users\User\Desktop\test
+
+26/02/2022  12:36    <DIR>          .
+26/02/2022  12:36    <DIR>          ..
+07/02/2022  22:16               281 CTA test auth negative.tc
+24/02/2022  13:33               257 CTA test recherche 2.tc
+24/02/2022  22:55               260 CTA test recherche wiki.tc
+07/02/2022  23:15               279 CTA test recherche.tc
+07/02/2022  19:07               245 CTA_auth.tc
+26/02/2022  12:36                 0 test.txt
+               6 fichier(s)            1ÿ322 octets
+               2 R‚p(s)  280ÿ656ÿ633ÿ856 octets libres
